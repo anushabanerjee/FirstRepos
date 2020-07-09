@@ -1,0 +1,5 @@
+[user]
+	name = Anusha Banerjee
+	email = rairaianusha@gmail.com
+[credential]
+	helper = cache --timeout=3600
