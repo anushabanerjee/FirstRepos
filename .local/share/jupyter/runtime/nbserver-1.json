@@ -1,11 +1,11 @@
 {
-  "base_url": "/binder/jupyter/user/anushabanerjee-firstrepos-pm0jih08/",
+  "base_url": "/binder/jupyter/user/anushabanerjee-firstrepos-5rnhmq8a/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "1vO_m789TiCWlb_SFUcTIA",
-  "url": "http://0.0.0.0:8888/binder/jupyter/user/anushabanerjee-firstrepos-pm0jih08/"
+  "token": "FWzW2kFxQBOkfOzbAZ4RDw",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/anushabanerjee-firstrepos-5rnhmq8a/"
 }
